@@ -1,1 +1,1 @@
-This is my Git Website, I am currently trying to get my domain to go to it.
+This is my Website, I am currently running my minimalist page where there are only links to my GitHub, LinkedIn and email. I normally run a different version, that has links to pictures of projects and such.
